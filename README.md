@@ -34,8 +34,6 @@ Self-check (scan, frame rate tag, decode timing):
 
 - Raw development uses Apple's Core Image, not Blackmagic colour science. Good for reviewing footage, not for judging a grade.
 - Film mode is an approximated log curve, not the official Blackmagic Film curve.
-- Tested only with 1080p clips from the original Pocket Cinema Camera. On an M1, full-resolution playback shows about 87% of frames at 25 fps; the rest are dropped to stay in sync.
-- Clips are found in the opened folder and its direct subfolders only.
 
 ## License
 
