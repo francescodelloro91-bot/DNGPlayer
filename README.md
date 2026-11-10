@@ -33,7 +33,7 @@ Self-check (scan, frame rate tag, decode timing):
 ## Limitations
 
 - Raw development uses Apple's Core Image, not Blackmagic colour science. Good for reviewing footage, not for judging a grade.
-- Film mode is an approximated log curve, not the official Blackmagic Film curve.
+- Film mode is an approximated log curve, not the official Blackmagic Film curve, but it works very well for reviewing footage.
 
 ## License
 
